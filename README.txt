@@ -1,3 +1,7 @@
+-=(Pleiads_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
 ---------------------------------------------------------------------------------
 -- 
 -- Arcade: Pleiads port to MiSTer by Sorgelig
